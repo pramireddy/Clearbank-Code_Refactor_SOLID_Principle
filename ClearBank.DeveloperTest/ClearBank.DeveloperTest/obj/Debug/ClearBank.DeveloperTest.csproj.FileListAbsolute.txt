@@ -1,0 +1,5 @@
+C:\Labs\ClearBank.DeveloperTest\ClearBank.DeveloperTest\bin\Debug\ClearBank.DeveloperTest.dll
+C:\Labs\ClearBank.DeveloperTest\ClearBank.DeveloperTest\bin\Debug\ClearBank.DeveloperTest.pdb
+C:\Labs\ClearBank.DeveloperTest\ClearBank.DeveloperTest\obj\Debug\ClearBank.DeveloperTest.dll
+C:\Labs\ClearBank.DeveloperTest\ClearBank.DeveloperTest\obj\Debug\ClearBank.DeveloperTest.pdb
+C:\Labs\ClearBank.DeveloperTest\ClearBank.DeveloperTest\obj\Debug\ClearBank.DeveloperTest.csproj.CoreCompileInputs.cache
